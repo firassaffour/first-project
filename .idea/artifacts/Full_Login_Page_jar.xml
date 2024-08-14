@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Full Login Page:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Full_Login_Page_jar</output-path>
+    <root id="archive" name="Full Login Page.jar">
+      <element id="module-output" name="Full Login Page" />
+    </root>
+  </artifact>
+</component>
